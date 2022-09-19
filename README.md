@@ -8,6 +8,7 @@ In order to run this project required:
  2. Running environment container with command `docker compose -f ./docker-compose.yml up -d`
 with this step you will be able to access `adminer` http://localhost:8081.
 ```
+Database information
 username: root
 password: password
 database: refinn
